@@ -37,7 +37,6 @@ public class Sorts {
       }
         data[j+1]=temp;
     }
-    System.out.println(Arrays.toString(data));
   }
 
 }
